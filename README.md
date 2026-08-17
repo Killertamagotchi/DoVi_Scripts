@@ -29,7 +29,7 @@ See other requirements below...
 
 - [avisynthplus 64bit](https://github.com/AviSynth/AviSynthPlus/releases/download/v3.7.5/AviSynthPlus_3.7.5_20250420_vcredist.exe) (not required if you just want to inject/edit DV)
 
-- [lavfilters](https://files.1f0.de/lavf/nightly/LAVFilters-0.80.0-9.exe) (required for avspmod 3-1, 3-2 and 6-2 only)
+- [lavfilters](https://www.videohelp.com/software/LAV-Filters) (required for avspmod 3-1, 3-2 and 6-2 only)
 
 - MadVR 113b (required for 3-1, 3-2 and 6-2 only) go in the dovi_scripts/tools/madvr folder and with admin rights, click on the install bat.
   
